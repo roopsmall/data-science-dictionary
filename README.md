@@ -1,6 +1,6 @@
 # Data Science Dictionary
 
-[Free to Use and Copy](#free-to-distribute-and-copy)
+[Free to Use and Copy](#free-to-use-and-copy)
 
 [Easy to Contribute](#easy-to-contribute)
 
