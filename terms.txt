@@ -1,0 +1,88 @@
+Activation Level
+AdaBoost
+Adam Optimizer
+Affinity Propagation
+Area Under Curve
+AUC
+Back Propagation
+Bagging
+Batch Size
+Bootstrap Aggregating
+CIFAR
+Convolution Network
+Cost Function
+Cross Entropy
+Cross Validation
+DBSCAN
+Decision Tree
+Dense Matrix
+Dimensionality Reduction
+Dropout
+Epoch
+Feature Extraction
+Feature Scaling
+Gradient Clipping
+Gradient Descent
+Hidden Layer
+Hopfield Networks
+Input Layer
+K-Means Clustering
+L1 Norm
+L2 Norm
+L1 Regularization
+L2 Regularization
+Labels
+Layer
+Learning Rate
+Linear Regression
+Logistic Function
+Logistic Regression
+Logits
+Loss Function
+Max Pooling
+MNIST
+Model Averaging
+Naive Bayes Classifier
+Neural Network
+Neuron
+Normal Distribution
+Normalization
+OCR
+One-Hot Encoding
+Optical Character Recognition
+Optimum Brain Damage
+Out-of-bag Error
+Output Layer
+Overfitting
+Principal Component Analysis
+PCA
+Q-Learning
+Random Forest
+Receiver Operating Characteristic
+Rectified Linear Units
+Recurrent Neural Network
+Restricted Boltzmann Machines
+RELU
+ROC
+SGD
+Sigmoid Function
+Softmax Function
+Sparse Matrix
+Spectral Clustering
+Stochastic Gradient Descent
+Stopping Criterion
+Supervised Learning
+Support Vector Machines
+SVM
+t-Distributed Stochastic Neighbour Embedding
+t-SNE
+Test Accuracy
+Test Set
+Training Accuracy
+Training Set
+Truncated Normal Distribution
+Unsupervised Learning
+Validation Set
+Weight Initialization
+
+
