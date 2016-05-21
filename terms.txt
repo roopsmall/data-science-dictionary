@@ -84,5 +84,3 @@ Truncated Normal Distribution
 Unsupervised Learning
 Validation Set
 Weight Initialization
-
-
