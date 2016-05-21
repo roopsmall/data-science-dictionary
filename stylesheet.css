@@ -7,7 +7,7 @@ margin-right: auto;
 
 }
 
-td#header_td {
+td.header_td {
 
 font-family: Georgia, serif;
 font-size: 2em;
@@ -32,4 +32,3 @@ h1 {
 display: inline;
 
 }
-
