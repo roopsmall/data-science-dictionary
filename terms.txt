@@ -3,7 +3,7 @@ AdaBoost
 Adam Optimizer
 Affinity Propagation
 Area Under Curve
-AUC
+AUC~Area Under Curve
 Back Propagation
 Bagging
 Batch Size
@@ -47,22 +47,22 @@ Neural Network
 Neuron
 Normal Distribution
 Normalization
-OCR
+OCR~Optical Character Recognition
 One-Hot Encoding
 Optical Character Recognition
 Optimum Brain Damage
 Out-of-bag Error
 Output Layer
 Overfitting
-Principal Component Analysis
-PCA
+Principle Component Analysis
+PCA~Principle Component Analysis
 Q-Learning
 Random Forest
 Receiver Operating Characteristic
 Rectified Linear Units
 Recurrent Neural Network
 Restricted Boltzmann Machines
-RELU
+RELU~Rectified Linear Units
 ROC
 SGD
 Sigmoid Function
@@ -73,9 +73,9 @@ Stochastic Gradient Descent
 Stopping Criterion
 Supervised Learning
 Support Vector Machines
-SVM
+SVM~Support Vector Machines
 t-Distributed Stochastic Neighbour Embedding
-t-SNE
+t-SNE~t-Distributed Stochastic Neighbour Embedding
 Test Accuracy
 Test Set
 Training Accuracy
